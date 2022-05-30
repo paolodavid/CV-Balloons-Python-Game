@@ -1,8 +1,8 @@
 # CV Balloons Python Game
-Python project 🐍 for Background Change/Removal 🖼 in a webcam live stream, using OpenCV 🧠
+Computer Vision project which use OpenCV and the Pygame library to 
 
 # Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/j6EfjiFFPlY/0.jpg)](https://www.youtube.com/watch?v=j6EfjiFFPlY).  
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tNWt6CqcQPk/0.jpg)](https://www.youtube.com/watch?v=tNWt6CqcQPk).  
 
 # Features
 Created using these libraries/framework:
@@ -10,4 +10,4 @@ Created using these libraries/framework:
 - OpenCV 4.5.5
 
 # Credits
-- https://bit.ly/3M30Fx0
+- [https://bit.ly/3M30Fx0](https://bit.ly/3NHNu4n)
